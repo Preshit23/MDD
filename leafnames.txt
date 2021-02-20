@@ -1,0 +1,51 @@
+1.Azadirachta indica
+2.Ocimum tenuiflorum
+3.Saraca asoca
+4.Holoptelea integrifolia
+5.Eupatorium ayyappana
+6.Ocimum basilicum
+7.Laurus nobilis
+8.Elettaria cardamomum
+9.Cannabis
+10.Tinospora cordifolia
+11.Solanum torvum
+12.Piper betle 
+13.Wrightia Tinctoria Pala
+14.Zingiber officinale
+15.Helicteres isora
+16.Ficus microcarpa
+17.Cassia fistula
+18.Cinnamomum
+19.Ixora coccinea
+20.Swertia chiratta
+21.Aegle marmelos
+22.Garcinia gummi-gutta
+23.Gmelina Arborea
+24.Curcuma longac
+25.Rubia cordifolia
+26.Bauhinia variegata
+27.Mentha
+28.Pseudarthria viscida
+29.Hemigraphis Corolata
+30.Baliospermum montanum 
+31.Terminalia arjuna
+32.Syzygium cumini
+33.Pandanus fascicularis
+34.Desamodium ganjeticum
+35.Terminalia chebula
+36.Petroselinum crispum
+37.Jasminum grandiﬂorium
+38.Ocimum basicilum var. purpurascens
+39.Pterocarpus santalinus
+40.Bacopa monnieri
+41.Terminalia bellirica
+42.Woodfordia fruiticosa
+43.Boerhavia diﬀusa
+44.Piper longum
+45.Desmodium gyrans
+46.Datura satramonium
+47.Pongamia pinnata
+48.Justicia gendarusa
+49.Pterocarpus marsupium
+50.Vallaris solanacea
+

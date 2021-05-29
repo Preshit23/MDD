@@ -6,10 +6,16 @@ def preprocess(image_bgr):
     image_rgb = cv2.cvtColor(image_bgr, cv2.COLOR_BGR2RGB)
     plt.imshow(image_rgb)
     plt.show()
-    x = int(input("x: "))
-    y = int(input("y: "))
-    w = int(input("w: "))
-    h = int(input("h: "))
+    #x = int(input("x: "))
+    #y = int(input("y: "))
+    #w = int(input("w: "))
+    #h = int(input("h: "))
+
+    x=0
+    y=0
+    w=360
+    h=1200
+
     rectangle = (x, y, w, h)  # (starting x , starting y , width , height)
     mask = np.zeros(image_rgb.shape[:2], np.uint8)
     bgdModel = np.zeros((1, 65), np.float64)

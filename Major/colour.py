@@ -8,6 +8,7 @@ def colour(main_img):
     red_channel = img[:, :, 0]
     green_channel = img[:, :, 1]
     blue_channel = img[:, :, 2]
+
     blue_channel[blue_channel == 255] = 0
     green_channel[green_channel == 255] = 0
     red_channel[red_channel == 255] = 0

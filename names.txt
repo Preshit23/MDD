@@ -1,0 +1,55 @@
+1.Azadirachta indica
+2.Ocimum tenuiflorum
+3.Saraca asoca
+4.Holoptelea integrifolia
+5.Eupatorium ayyappana
+6.Ocimum basilicum
+7.Laurus nobilis
+8.Elettaria cardamomum
+9.Cannabis (1081)
+10.Tinospora cordifolia
+11.Solanum torvum
+12.Piper betle 
+13.Wrightia Tinctoria Pala
+14.Zingiber officinale
+15.helicteres isora
+
+16.Phyllostachys edulis 
+17.Aesculus chinensis
+18.Berberis anhweiensis Ahrendt
+19.Cercis chinensis
+20.Indigofera tinctoria L.
+21.Phoebe nanmu (Oliv.) Gamble
+22.Acer Palmatum
+23.Kalopanax septemlobus (Thunb. ex A.Murr.) Koidz.
+24.Cinnamomum japonicum Sieb
+25.Koelreuteria paniculata Laxm.
+26.Ilex macrocarpa Oliv
+27.Pittosporum tobira (Thunb.) Ait. f.
+28.Chimonanthus praecox L.
+29.Cinnamomum camphora (L.) J. Presl
+30.Viburnum awabuki K.Koch
+31.Osmanthus fragrans Lour.
+32.Cedrus deodara (Roxb.) G. Don
+33.Ginkgo biloba L.
+34.Lagerstroemia indica (L.) Pers.
+35.Nerium oleander L.
+36.Podocarpus macrophyllus (Thunb.) Sweet
+37.Prunus serrulata Lindl. var. lannesiana auct.
+38.Ligustrum lucidum Ait. f.
+39.Tonna sinensis M. Roem.
+40.Prunus persica (L.) Batsch
+41.Manglietia fordiana Oliv.
+42.Acer buergerianum Miq.
+43.Mahonia bealei (Fortune) Carr.
+44.Magnolia grandiflora L.
+45.Populus ×canadensis Moench
+46.Liriodendron chinense (Hemsl.) Sarg.
+47.Citrus reticulata Blanco
+
+
+48.Pongamia pinnata
+49.Justicia gendarusa
+50.Pterocarpus marsupium
+51.Vallaris solanacea
+

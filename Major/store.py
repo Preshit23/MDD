@@ -12,7 +12,7 @@ titles = [ 'area','perimeter','aspect_ratio','rectangularity','circularity',
 
 
 
-path  = 'D:\\MDD\\Leaf images'
+path  = 'D:\\MDD\\Leaf images - ALL Final'
 file_itr = os.listdir(path)
 df = pd.DataFrame([], columns=titles)
 for file in file_itr:
